@@ -18,7 +18,8 @@
 ├── .github                       # リポジトリの運用ルール・自動化などの設定
 │   ├── ISSUE_TEMPLATE/           #           
 │   └── PULL_REQUEST_TEMPLATE.md  #
-├── .streamlit/...                # 
+├── .streamlit/...                # Streamlitの設定ファイル
+├── .vscode                       # VSCodeの設定ファイル
 ├── app/                          # FastAPIやStreamlit等のアプリケーションコード
 ├── data/                         # 元データ、学習データ、推論データなどを格納
 ├── docs/                         # 各種ドキュメントを管理 (環境構築・実装方法・設計書# ) 
